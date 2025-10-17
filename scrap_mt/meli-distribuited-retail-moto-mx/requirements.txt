@@ -1,0 +1,11 @@
+python-dotenv
+termcolor
+selenium
+webdriver-manager
+undetected-chromedriver
+tabulate
+mysql-connector-python
+SQLAlchemy
+pandas
+requests
+halo
